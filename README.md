@@ -15,6 +15,10 @@ O projeto aborda a dinamica de uma conta corrente, tendo a parte de depósito, t
 - Getters & Setters
 - Proteção de atibutos sensíveis
 - Atributos estáticos
+- Polimorfismo
+- Classes abstratas
+- Métodos abstratos
+- Duck Type
 
 ## Rodando o projeto
 
